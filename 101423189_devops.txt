@@ -1,2 +1,1 @@
-DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the development lifecycle and provide continuous delivery of high-quality software.
-Key DevOps practices include continuous integration, continuous delivery, and infrastructure as code.
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the development lifecycle and provide continuous delivery of high-quality software.for the next commit
